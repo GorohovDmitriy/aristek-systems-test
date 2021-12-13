@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/aristek-systems-test/static/css/main.41ff074c.chunk.css",
+    "main.js": "/aristek-systems-test/static/js/main.d2cc96d1.chunk.js",
+    "main.js.map": "/aristek-systems-test/static/js/main.d2cc96d1.chunk.js.map",
+    "runtime-main.js": "/aristek-systems-test/static/js/runtime-main.b8850855.js",
+    "runtime-main.js.map": "/aristek-systems-test/static/js/runtime-main.b8850855.js.map",
+    "static/js/2.7f0e0560.chunk.js": "/aristek-systems-test/static/js/2.7f0e0560.chunk.js",
+    "static/js/2.7f0e0560.chunk.js.map": "/aristek-systems-test/static/js/2.7f0e0560.chunk.js.map",
+    "index.html": "/aristek-systems-test/index.html",
+    "static/css/main.41ff074c.chunk.css.map": "/aristek-systems-test/static/css/main.41ff074c.chunk.css.map",
+    "static/js/2.7f0e0560.chunk.js.LICENSE.txt": "/aristek-systems-test/static/js/2.7f0e0560.chunk.js.LICENSE.txt",
+    "static/media/CompletedList.module.scss": "/aristek-systems-test/static/media/Vector.a8ed8d8e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8850855.js",
+    "static/js/2.7f0e0560.chunk.js",
+    "static/css/main.41ff074c.chunk.css",
+    "static/js/main.d2cc96d1.chunk.js"
+  ]
+}
