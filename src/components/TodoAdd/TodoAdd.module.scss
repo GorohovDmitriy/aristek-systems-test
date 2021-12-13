@@ -1,0 +1,59 @@
+.add__todo {
+	margin-top: 24px;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 8px;
+
+	@media (min-width: 765px) {
+		width: 100%;
+	}
+
+	input {
+		width: 100%;
+		background: #ffffff;
+		outline: none;
+		border: 1px solid #ececec;
+		box-sizing: border-box;
+		border-radius: 4px;
+		height: 40px;
+		padding-left: 12px;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		line-height: 19px;
+		color: #cacaca;
+		margin-right: 8px;
+	}
+
+	button {
+		width: 50px;
+		height: 40px;
+		outline: none;
+		border: none;
+		cursor: pointer;
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		align-items: center;
+		padding: 5px 12px;
+		background: #550dc9;
+		border-radius: 4px;
+
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		line-height: 19px;
+		color: #ffffff;
+		transition: opacity 0.25s ease-in-out;
+		&:hover {
+			opacity: 0.8;
+		}
+		&:active {
+			opacity: 1;
+		}
+	}
+}

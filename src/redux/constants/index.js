@@ -1,0 +1,6 @@
+export const FETCH_POSTS = 'FETCH_POSTS'
+export const GET_POSTS = 'GET_POSTS'
+export const CHECKED_TODO = 'CHECKED_TODO'
+export const DELETE_TODO = 'DELETE_TODO'
+export const CREATE_TODO = 'CREATE_TODO'
+export const EDIT_TODO = 'EDIT_TODO'

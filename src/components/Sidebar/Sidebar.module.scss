@@ -1,0 +1,15 @@
+.sidebar {
+	height: 100%;
+	width: 52px;
+	position: fixed;
+	z-index: 1;
+	top: 64px;
+	left: 0;
+	background-color: #550dc9;
+	overflow-x: hidden;
+	padding-top: 20px;
+
+	&__menu:hover {
+		cursor: pointer;
+	}
+}
