@@ -1,5 +1,7 @@
 ### Test 2 Todo - List
 
+[Ссылка на проект](https://redux-todo-dc6e9.web.app/)
+
 > Библиотеки:
 
 `redux`
