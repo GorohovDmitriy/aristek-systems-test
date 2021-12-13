@@ -3,7 +3,7 @@ import { baseUrl } from "../../API"
 import axios from 'axios'
 
 export const fetchPosts = () => async (dispatch) => {
-	const response = await axios.get(`${baseUrl}?_limit=5`)
+	const response = await axios.get(`${baseUrl}?_limit=10`)
 	dispatch(getPosts(response.data))
 }
 
